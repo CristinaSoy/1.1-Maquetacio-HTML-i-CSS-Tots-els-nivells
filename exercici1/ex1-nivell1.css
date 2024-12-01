@@ -1,0 +1,83 @@
+body {
+    background: #fff;
+    max-width: 1200px; 
+    text-decoration: none;
+}
+section{
+    background: black;
+    margin: 10px auto;
+    padding: 10px;
+}
+header{
+    background: #29415C;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+}
+
+.cabecera{
+    background: rgb(234, 63, 63);
+    display:inline-block;
+    margin: 10px;
+    padding: 10px;
+    width: 24%;
+    box-sizing:border-box; 
+}
+.doble {
+    width: 45%;
+}
+#caja-banner{
+    background: #FE8C02;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+    
+.banner {
+    background: #FED700;
+    font-weight:bolder;
+    font-size: larger;
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing:border-box;
+}
+.flex{
+    display: flex;
+
+}
+nav {
+    background: rgb(65, 7, 116);
+    margin: 10px;
+    padding: 10px;
+    width: 70%;
+}
+aside{
+    background: #F63F51;
+    margin: 10px;
+    padding: 10px;
+    width: 25%;
+}
+
+.article{
+    background: #1F6CB0;
+    width: 47%;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.navegacion{
+    background: #71A3C4;
+    padding:10px;
+    margin: 10px;
+}
+.publicidad{
+    background: #FED700;
+    padding:10px;
+    margin: 10px;
+}
+footer{
+    background: lightgoldenrodyellow;
+    padding:10px;
+    margin: 10px;
+}
